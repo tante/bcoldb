@@ -98,3 +98,54 @@
     * Jabber Chatrooms (falls vorhanden)
     * Partychat (http://partychapp.appspot.com/)
 
+--- 
+# Kollaboration
+
+* gemeinsames Arbeiten (meist an Text)
+* Anforderungen:
+    * Versionen
+    * Autorenverfolgung
+    * Kommentare (!)
+    * simultan Arbeiten ist großes Kino
+---
+# Google Docs
+
+* http://docs.google.com
+* Kann nicht nur Text sondern auch Präsentationen und Grafiken
+* Export/Download in Office-Dateiformaten
+* Erinnert stark an Desktop Apps
+* Kommentare sind eher "Anmerkungen" als Diskussion
+---
+# Google Docs Screenshot
+![Google Docs](images/googledocs.png)
+
+---
+# Etherpad
+
+* Open Source Software
+* gehostet umsonst unter http://openetherpad.org
+* eigener "Chat" für jedes "Pad"
+* Vorteil: nur Text mit wenig Strukturinformationen
+  \(WYSIWYM: What you see is what you *mean*\)
+
+---
+# Etherpad Screenshot
+![openetherpad](images/etherpad.png)
+
+---
+# Zusammenfassung
+---
+* nutzt, was ihr am besten kennt
+* aber verschwendet die Zeit nicht mit Formatieren
+* Gleichzeitigkeit ist gut bei Kommunikation und Arbeit
+* im Netz für nahezu jedes Problem eine kostenlos gehostete Software
+* es existiert viel mehr als ich hier dargestellt habe
+---
+**Danke für die Aufmerksamkeit**
+
+Bei Fragen jetzt hier oder an @tante auf Twitter.
+
+Folien unter 
+
+* [http://the-gay-bar.com/bcoldb/](http://the-gay-bar.com/bcoldb/)
+* [https://github.com/tante/bcoldb](https://github.com/tante/bcoldb)
