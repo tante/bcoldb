@@ -3,7 +3,7 @@ all: collaboration citizienjournalism socialpayment
 collaboration:
 	landslide collaboration.cfg
 citizienjournalism:
-	landslide citizienjournalism.cfg
+	landslide citizenjournalism.cfg
 socialpayment:
 	landslide socialpayment.cfg
 
