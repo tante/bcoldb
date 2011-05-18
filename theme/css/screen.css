@@ -196,16 +196,17 @@ li {
   display: block;
   margin: 0;
   margin-left: -400px;
-  padding: 10px 16px;
-  overflow: auto;
+  padding: 10px 0px;
+  overflow: auto; 
   -webkit-transition: margin 0.2s ease-in-out;
   -moz-transition: margin 0.2s ease-in-out;
   -o-transition: margin 0.2s ease-in-out;
+  font-size: 20px;
 }
 
 .sidebar h2 {
   text-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px;
-  margin: 0 0 16px;
+  margin: 0 0 0px;
   padding: 0;
 }
 
