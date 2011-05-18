@@ -65,16 +65,18 @@
             {% endif %}
           </div>
           <footer>
-            {% if slide.source %}
-            <aside class="source">
-              Source: <a href="file://{{ slide.source.abs_path }}">{{ slide.source.rel_path }}</a>
+            <aside class="author">
+            Jürgen Geuter (<a href="http://twitter.com/tante">@tante</a>)
             </aside>
-            {% endif %}
+            <aside class="license">
+            <a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="theme/cc-by-sa-3.0.png"></a>
+            </aside>
             <aside class="page_number">
               {{ slide.number }}/{{ num_slides }}
             </aside>
+              
           </footer>
-        </div>
+      </div>
       </div>
       {% endfor %}
     </div>

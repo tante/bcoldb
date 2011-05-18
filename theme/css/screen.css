@@ -19,7 +19,7 @@ section h1, section h2, section h3, section h4, section h5, section h6 {
 img { display: block; margin: auto; }
 
 body {
-  font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font: 28px "Droid Sans", "Trebuchet MS", Verdana, sans-serif;
   background: #778;
   padding: 0;
   margin: 0;
@@ -62,22 +62,22 @@ div.slide {
   -webkit-transition: margin 0.25s ease-in-out;
   -moz-transition: margin 0.25s ease-in-out;
   -o-transition: margin 0.25s ease-in-out;
-  border-top-left-radius: 20px;
-  -moz-border-radius-topleft: 20px;
-  -webkit-border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  -moz-border-radius-topright: 20px;
-  -webkit-border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  -moz-border-radius-bottomright: 20px;
-  -webkit-border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-  -moz-border-radius-bottomleft: 20px;
-  -webkit-border-bottom-left-radius: 20px;
+  border-top-left-radius: 30px;
+  -moz-border-radius-topleft: 30px;
+  -webkit-border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  -moz-border-radius-topright: 30px;
+  -webkit-border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  -moz-border-radius-bottomright: 30px;
+  -webkit-border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  -moz-border-radius-bottomleft: 30px;
+  -webkit-border-bottom-left-radius: 30px;
 }
 
 div.slide p {
-  font-size: 20px;
+  font-size: 28px;
 }
 
 .slide.far-past {
@@ -245,7 +245,7 @@ li {
   display: block;
   text-decoration: none;
   border-bottom: none;
-  padding: 4px 0;
+  padding: 0px 0;
 }
 
 .sidebar tr.active {
@@ -253,7 +253,10 @@ li {
 }
 
 aside {
-  display: none;
+  display: block;
+  color: #3f3f3f;
+  font-size:16px;
+
 }
   aside.source {
     position: absolute;
@@ -261,12 +264,39 @@ aside {
     left: 10px;
     text-indent: 10px;
   }
-  aside.page_number {
+  
+  aside.author {
     position: absolute;
     bottom: 6px;
-    right: 10px;
+    left: 10px;
     text-indent: 10px;
   }
+
+  aside.author a{
+    text-indent: 0px;
+  }
+
+  aside.license{
+    position: absolute;
+    bottom: 6px;
+    left:400px;
+    text-indent: 10px;
+    border-bottom: 0;
+  }
+
+  aside.license a{
+    border-bottom: 0;
+  }
+
+
+  aside.page_number {
+    display:none;
+    position: absolute;
+    bottom: 6px;
+    right: 20px;
+    text-indent: 10px;
+  }
+  
 
 .notes {
   display: none;
