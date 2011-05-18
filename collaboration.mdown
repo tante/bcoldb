@@ -95,6 +95,7 @@
     * forumprofi.de
 * Chatrooms
     * freenode.net bzw. webchat.freenode.net
+    * Facebook Groups/Group Chat
     * Jabber Chatrooms (falls vorhanden)
     * Partychat (http://partychapp.appspot.com/)
 
