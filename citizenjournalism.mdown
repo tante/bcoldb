@@ -24,7 +24,6 @@ löst Probleme
 
 # Die früher hohen Kosten von Distribution und Produktion sind heute irrelevant
     
-
 ---
 # "Die 4. Gewalt"
 
@@ -47,8 +46,72 @@ löst Probleme
 ---
 # "Doing is the best way of saying"
 ---
-# 
+# Bürgerjournalismus
 
+* jeder kann Journalist sein
+* adressiert direkt die Probleme unseres Systems:
+    * ökonomischer Druck
+    * "Relevanz"
+
+---
+# Beispiele
+---
+# Mark Fonseca Rendeiro [@bicyclemark](http://twitter.com/bicyclemark)
+
+* [citizenreporter.org](http://citizenreporter.org/)
+* "Under-reported news + global concerns by a Portuguese-American, activist-journalist based in Amsterdam."
+* Wahlbeobachtung in Afghanistan [Vortrag beim 27C3](http://events.ccc.de/congress/2010/Fahrplan/events/4057.en.html)
+* Teil der Gruppe [Small World News](http://smallworldnews.tv/)
+---
+# Richard Gutjahr [@gutjahr](http://twitter.com/gutjahr)
+
+* [http://gutjahr.biz/](http://gutjahr.biz/blog/2011/01/kairo/)
+* Berichtete auf eigene Kosten und Initiative aus Ägypten
+    * [http://gutjahr.biz/blog/2011/01/kairo/](http://gutjahr.biz/blog/2011/01/kairo/)
+
+---
+# Tim Pritlove [@timpritlove](http://twitter.com/timpritlove)
+
+* Podcastnetzwerk "[Metaebene](http://metaebene.me/)"
+* Bekannte Podcasts:
+    * [Chaosradio Express](http://chaosradio.ccc.de/chaosradio_express.html)
+    * [Mobile Macs](http://mobilemacs.de/)
+    * [Raumzeit](http://raumzeit-podcast.de/)
+    * [Bundesradio](http://bundesradio.de/)
+---
+# Stärken
+
+* das Lokale
+* das "Kleine"
+* das Spezielle
+* das ökonimisch Uninteressante
+* das sozial Unakzeptierte
+
+---
+# Schwächen
+
+* keine schlagkräftige Verteidigung im Rücken
+* Ausbildung / Standards?
+* Verbreitung finden ist nicht immer leicht
+* Resourcen
+
+---
+# Kann man davon Leben?
+
+Zitat [@bicyclemark](http://twitter.com/bicyclemark):
+
+"I can not live *off* it, but I can live *because of* it."
+
+---
+# Podcast zum Thema
+
+* tentaclepr0n Podcast Episode 4: "Citizen Journalism" 
+  [tentaclepr0n.org](http://tentaclepr0n.org/2011/02/27/episode-4-citizen-journalism/)    
+* Gespräch mit @bicyclemark über
+    * Aufgaben
+    * Stärken/Schwächen
+    * Anspruch
+    * Finanzierung
 
 ---
 # Flattr this 
