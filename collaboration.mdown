@@ -144,6 +144,7 @@
 ---
 # Flattr this 
 ![qr-code](images/flattrqrcode.png)
+
 ---
 **Danke für die Aufmerksamkeit**
 
