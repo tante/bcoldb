@@ -1,6 +1,105 @@
 # Social Payment Systems
 ---
-# Social What?
+# Social was?
+
+* heute muss alles social heißen
+* umgelabeltes Micropayment
+* hat mit social networks eigentlich nix zu tun
+
+---
+# Probleme
+
+* hohe Transaktionskosten für Geldtransfers
+    * Geld
+    * Zeit
+    * Aufwand
+* lohnt sich erst ab gewisser Größe
+* Viel Geld bleibt beim Anbieter liegen
+    * Paypal z.B.
+---
+# Micropayment
+
+* kleine Beträge (micro)
+    * Visa: < 20$
+    * PayPal: < 12$
+* "der heilige Gral der Contentindustrie"
+* hat sich bisher nie durchgesetzt
+    * vgl. Probleme
+
+---
+# neue Systeme
+
+* Flattr
+    * [http://flattr.com](http://flattr.com)
+    * aus Schweden
+* Kachingle
+    * [http://www.kachingle.com/](http://www.kachingle.com/)
+    * aus den USA
+* weitere in Alpha/Betaphase
+    * [sociallypay.com](http://sociallypay.com/index.html)
+---
+# Modell
+
+* der monatliche "Kuchen"
+* Click == Pay
+* Kostenkontrolle
+* "Hürde" zu bezahlen für Konsumenten senken
+* (früher bei Flattr): "Give to get"
+
+---
+# Deutschland
+
+* Kachingle 
+    * *vereinzelte Nutzung* wäre geschmeichelt
+* Flattr
+    * gewisse Verbreitung
+    * Anteil deutscher Flattr-er insgesamt sehr hoch
+    * Nutzer vor allem im sehr technophilen Umfeld
+---
+# Erfolgsgeschichten
+
+* Tim Pritlove
+    * Podcaster
+    * macht mit unterschiedlichen Podcasts im Moment ca. 2000€ im Monat
+* Udo Vetter (Lawblog.de)
+    * hat im letzten Jahr monatlich zwischen 200€ und 400€ eingenommen
+---
+# Was ist mit Otto Normalo?
+
+* Flattr funktioniert in gewissem Maße
+* meine Stats:
+    * im Schnitt pro Click ca. 10-15cent
+    * im Monat so um die 10-15€
+    * Viele Leser führen nicht zu vielen Clicks
+---
+# Beobachtungen
+
+Flattr funktioniert 
+
+* für Podcasts 
+* für Texte über Flattr
+* für Leute mit viel Output
+* bei hoher Bindung des Publikums
+* beim "preaching to the choir"
+
+---
+# Beobachtungen II
+
+Flattr belohnt nicht
+
+* "Qualität"
+* Umfang 
+* Kontroverse
+* Eigenständigkeit
+* "den kleinen Autoren"
+
+---
+# Ausblick
+
+* wird Flattr schnell genug wachsen?
+* wird es eine Konkurrenz zu Flattr geben?
+* kann das Momentum aufrechterhalten werden?
+
 ---
 # Flattr this 
 ![qr-code](images/flattrqrcode.png)
