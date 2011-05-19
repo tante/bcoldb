@@ -14,5 +14,5 @@ release: all
 	mkdir -p release
 	cp *.html release
 	cp -r images release/
-	cp -r theme release/
+	cp -r mytheme release/
 
