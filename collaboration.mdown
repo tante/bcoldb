@@ -142,6 +142,9 @@
 * im Netz für nahezu jedes Problem eine kostenlos gehostete Software
 * es existiert viel mehr als ich hier dargestellt habe
 ---
+# Flattr this 
+![qr-code](images/flattrqrcode.png)
+---
 **Danke für die Aufmerksamkeit**
 
 Bei Fragen jetzt hier oder an @tante auf Twitter.
