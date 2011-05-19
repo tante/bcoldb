@@ -1,0 +1,17 @@
+# Social Payment Systems
+---
+# Social What?
+---
+# Flattr this 
+![qr-code](images/flattrqrcode.png)
+
+---
+**Danke für die Aufmerksamkeit**
+
+Bei Fragen jetzt hier oder an @tante auf Twitter.
+
+Folien unter 
+
+* [http://the-gay-bar.com/bcoldb/](http://the-gay-bar.com/bcoldb/)
+* [https://github.com/tante/bcoldb](https://github.com/tante/bcoldb)
+
