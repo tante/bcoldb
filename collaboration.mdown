@@ -62,16 +62,18 @@
 * Wie im realen Leben:  
   frisch > als Konserve
 * Einzelgespräche erhöhen den Kommunikationsaufwand massiv
+* "Awareness"
 * "gemeinsamer Dorfplatz":
     * kreativer Input
     * Zusammengehörigkeit
+    
 ---
 # Regel 4
 *The right tool for the job*
 
 * Bestimmte Tools erfüllen bestimmte Aufgaben
 * *"When all you have's a hammer, all you see is nails"*
-* vgl. Wikipedia
+* vgl. Wikipedia (Negativbeispiel!)
 
 ---
 # TOOL TIME!
@@ -108,6 +110,7 @@
     * Autorenverfolgung
     * Kommentare (!)
     * simultan Arbeiten ist großes Kino
+
 ---
 # Google Docs
 
@@ -116,6 +119,8 @@
 * Export/Download in Office-Dateiformaten
 * Erinnert stark an Desktop Apps
 * Kommentare sind eher "Anmerkungen" als Diskussion
+* Kollaboratives Bildereditieren!
+
 ---
 # Google Docs Screenshot
 ![Google Docs](images/googledocs.png)
@@ -141,6 +146,7 @@
 * Gleichzeitigkeit ist gut bei Kommunikation und Arbeit
 * im Netz für nahezu jedes Problem eine kostenlos gehostete Software
 * es existiert viel mehr als ich hier dargestellt habe
+
 ---
 # Flattr this 
 ![qr-code](images/flattrqrcode.png)
